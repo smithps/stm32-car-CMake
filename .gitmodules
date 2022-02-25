@@ -1,0 +1,3 @@
+[submodule "stm32-car"]
+	path = stm32-car
+	url = https://github.com/smithps/stm32-car.git

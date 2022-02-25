@@ -1,0 +1,7 @@
+*.o
+obj
+linker.map
+sinus.layout
+*.hex
+*.bin
+.vs
