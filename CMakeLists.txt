@@ -6,4 +6,4 @@ cmake_minimum_required (VERSION 3.8)
 project ("EV-Source")
 
 # Include sub-projects.
-add_subdirectory ("EV-Source")
+add_subdirectory ("stm32-car")
